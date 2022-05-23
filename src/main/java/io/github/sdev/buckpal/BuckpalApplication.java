@@ -1,4 +1,4 @@
-package io.github.sdev.buckpal.buckpal;
+package io.github.sdev.buckpal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
